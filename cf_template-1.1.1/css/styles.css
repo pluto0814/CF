@@ -1,0 +1,15 @@
+.jumbotron{
+	
+	background-image: url("../img/madrid.jpe");
+	background-size: cover;
+}
+
+
+.jumbotron p {
+  color: #ffff99;
+
+}
+
+.jumbotron h1{
+	color:  #ffff99;	
+}	
